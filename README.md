@@ -1,3 +1,5 @@
-# My-Python-Projects
+<h1> My-Python-Projects🐍</h1>
 
-These are my python practice/own projects 
+<br>
+<p>A collection of python projects</p>
+<p>These are my <i>python projects</i> I have worked on till now.</p>
