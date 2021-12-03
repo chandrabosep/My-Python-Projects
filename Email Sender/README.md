@@ -1,8 +1,8 @@
 <h1>GUI Sending-Email</h1>
 
 <h3>Imports</h3>
-<ul><p>import smtplib</p>
-<P>from tkinter import *</p>
+<ul><li>import smtplib</li>
+<li>from tkinter import *</li>
 </ul>
 
 ![image](https://user-images.githubusercontent.com/70272542/144632753-ef731fa4-0dcd-4c2c-ad09-55a5528c271c.png)
